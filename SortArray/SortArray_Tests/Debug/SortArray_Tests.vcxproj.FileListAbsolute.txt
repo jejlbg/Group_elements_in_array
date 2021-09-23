@@ -1,0 +1,2 @@
+C:\Users\Johann\source\repos\SortArray\SortArray_Tests\Debug\SortArray_Tests.vcxproj.CopyComplete
+C:\Users\Johann\Documents\Bosch\SortArrayElements\Group_elements_in_array\SortArray\SortArray_Tests\Debug\SortArray_Tests.vcxproj.CopyComplete
